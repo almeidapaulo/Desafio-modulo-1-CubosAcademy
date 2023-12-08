@@ -16,3 +16,5 @@ O código era adicionado neste trecho em destaque
 ![](./img/mesa-poker-03.JPG)
 
 Após submeter o site gerava algumas entradas como testes, e se passasse em todos os teste a tarefa era concluída.
+
+![](./img/mesa-poker-04.JPG)
